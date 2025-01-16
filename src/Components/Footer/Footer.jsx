@@ -11,7 +11,7 @@ function Footer() {
     <div className="flex  absolute  bottom--10 justify-between p-8 h-[10vh] w-full   ">
       <section className="text-xl text-white"> Copyright 2024 | All rights reserved  </section>
       <section className=" flex gap-6 text-white  absolute right-4 ">
-        {<FaInstagram />}
+        
         {<BsTwitterX />}
         {<FaLinkedin />}
       </section>
